@@ -9,9 +9,8 @@
 
 - 💬 Ask me about **My journey is software development**
 
-- 📫 How to reach me **cyee67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Vv9tL4tZXJs64k37_Raft8UrTW6XG4_/view?usp=sharing](https://drive.google.com/file/d/19Vv9tL4tZXJs64k37_Raft8UrTW6XG4_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Vv9tL4tZXJs64k37_Raft8UrTW6XG4_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
