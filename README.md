@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yee_code" target="blank"></a>
-<a href="https://linkedin.com/in/chrisgyee" target="blank"></a>
+<a href="https://twitter.com/yee_code" target="blank">Twitter</a>
+<a href="https://linkedin.com/in/chrisgyee" target="blank">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
