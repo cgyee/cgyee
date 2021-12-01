@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Yee</h1>
-<h3 align="center">A passionate Software Engineer from South Florida</h3>
-
-- 🔭 I’m currently working on [Dinner Decider - a web app to help you and your friend figure out what to eat when you can't decide on anything.](https://github.com/cgyee/DinnerDecider)
-
-- 🌱 I’m currently learning **React, Nodejs, and the Microsoft Azure ecosystem**
-
-- 👨‍💻 All of my projects are available at [https://github.com/cgyee/](https://github.com/cgyee/)
-
-- 💬 Ask me about **My journey is software development**
-
+<h3 align="center">A Software Engineer from South Florida</h3>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Vv9tL4tZXJs64k37_Raft8UrTW6XG4_/view?usp=sharing)
 
